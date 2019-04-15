@@ -1,2 +1,4 @@
+test for master
+
 test for remote push
 new tzt`:wq
