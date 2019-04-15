@@ -1,6 +1,12 @@
 nnnnn
+
+dsadfsafd
 ddd
+<<<<<<< HEAD
 new cahgne for branch dev
+=======
+new cahgnge for dev
+>>>>>>> dev2
 new  change
 new chagnge 3
 new change`:wq
